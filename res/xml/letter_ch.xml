@@ -2,16 +2,16 @@
 <Keyboard android:keyWidth="10.000002%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0.0px" android:verticalGap="0.0px"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <Row>
-        <Key android:codes="32" android:keyLabel=" " android:keyEdgeFlags="left"/>
-        <Key android:codes="3461"  android:keyLabel="\u0D85" />
-        <Key android:codes="3463" android:keyLabel="\u0D87"/>
-        <Key android:codes="3465" android:keyLabel="\u0D89"/>
-        <Key android:codes="3467" android:keyLabel="\u0D8B"/>
-        <Key android:codes="3469" android:keyLabel="\u0D8D"/>
-        <Key android:codes="3471" android:keyLabel="\u0D8F"/>
-        <Key android:codes="3473" android:keyLabel="\u0D91"/>
-        <Key android:codes="3476" android:keyLabel="\u0D94"/>
-        <Key android:codes="3458" android:keyLabel="\u0D82" android:keyEdgeFlags="right"/>
+        <Key android:codes="3530" android:keyLabel="ච\u0DCA" android:keyEdgeFlags="left"/>
+        <Key android:codes="3535"  android:keyLabel="ච\u0DCF" />
+        <Key android:codes="3536" android:keyLabel="ච\u0DD0"/>
+        <Key android:codes="3538" android:keyLabel="ච\u0DD2"/>
+        <Key android:codes="3540" android:keyLabel="ච\u0DD4"/>
+        <Key android:codes="3544" android:keyLabel="ච\u0DD8"/>
+        <Key android:codes="3551" android:keyLabel="ච\u0DDF"/> 
+        <Key android:codes="3545" android:keyLabel="ච\u0DD9"/>
+        <Key android:codes="-26" android:keyLabel="..."/>
+        <Key android:codes="3458" android:keyLabel="ං" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
         <Key android:codes="3482" android:keyLabel="ක" android:keyEdgeFlags="left"/>
